@@ -26,8 +26,6 @@ Sales Trends: Recognize seasonal trends and peak sales periods.
 Performance Metrics: Calculate and interpret key performance indicators (KPIs) for the coffee shop.
 Conclusion
 This Excel project provides a comprehensive analysis of a coffee shop's sales data, offering valuable insights that can inform business strategy and operational improvements. It's an excellent example of how Excel can be used for data analysis in a retail context.
-
-Feel free to customize this README description based on specific details from your project file!
 Manish Sharma
 Mail_ID- mainshsharma01@gmail.com
 
